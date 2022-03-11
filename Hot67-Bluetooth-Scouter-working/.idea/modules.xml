@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hot67-Bluetooth-Scouter-working.iml" filepath="$PROJECT_DIR$/.idea/modules/Hot67-Bluetooth-Scouter-working.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Hot67-Bluetooth-Scouter-working.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Hot67-Bluetooth-Scouter-working.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/master/Hot67-Bluetooth-Scouter-working.master.iml" filepath="$PROJECT_DIR$/.idea/modules/master/Hot67-Bluetooth-Scouter-working.master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scouter/Hot67-Bluetooth-Scouter-working.scouter.iml" filepath="$PROJECT_DIR$/.idea/modules/scouter/Hot67-Bluetooth-Scouter-working.scouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viewer/Hot67-Bluetooth-Scouter-working.viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/viewer/Hot67-Bluetooth-Scouter-working.viewer.iml" />
+    </modules>
+  </component>
+</project>
