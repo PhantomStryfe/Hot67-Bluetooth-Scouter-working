@@ -74,14 +74,13 @@ public class RawDataActivity extends AppCompatActivity {
             dataTable = (DataTable) b.getSerializable(RAW_DATA_ATTRIBUTE);
             String teamNumber = b.getString(TEAM_NUMBER_ATTRIBUTE);
             String title = "Raw Data: " + teamNumber;
-            try
-            {
-                title += " - " + b.getString(TEAM_NAME_ATTRIBUTE);
-            }
-            catch (Exception e)
-            {
-                Constants.Log(e);
-            }
+//            try {
+//
+//                title += " - " + b.getString(TEAM_NAME_ATTRIBUTE);
+//            } catch (Exception e)
+//            {
+//                Constants.Log(e);
+//            }
             teamNumberView.setText(title);
         }
 

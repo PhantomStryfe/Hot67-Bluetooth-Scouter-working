@@ -61,7 +61,7 @@ public class ColumnSchema {
         calculatedColumns.add(new CalculatedColumn("A. U. Cargo", "Auton Upper Cargo")); //Number
         calculatedColumns.add(new CalculatedColumn("A. L. Cargo", "Auton Lower Cargo")); //Number
         calculatedColumns.add(new CalculatedColumn("Tel. U. Cargo", "Teleop Upper Cargo")); //Number
-        calculatedColumns.add(new CalculatedColumn("Tel. L. Cargo", "Teleop Lower Cargo")); //Number
+        //calculatedColumns.add(new CalculatedColumn("Tel. L. Cargo", "Teleop Lower Cargo")); //Number
         calculatedColumns.add(new CalculatedColumn("Miss", "Teleop Misses")); //Number
         calculatedColumns.add(new CalculatedColumn("Pref. Shot Pos.", "Teleop Preferred Shooting Position")); //Selection
         calculatedColumns.add(new CalculatedColumn("Del. Cargo", "Teleop Delivered Cargo")); //Boolean
